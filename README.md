@@ -1,4 +1,4 @@
-algorithm
+algorithm (writen in C++)
 =========
 - Search in sequence
   - The main.cpp in lab1 folder is about linear search algorithm 

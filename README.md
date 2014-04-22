@@ -1,4 +1,4 @@
-algorithm
+algorithm Writen in C++
 =========
 - Search in sequence
   - The main.cpp in lab1 folder is about linear search algorithm 
@@ -16,6 +16,6 @@ algorithm
 - Huffman Code
 - Insertion Sort
 - Merge Sort
-- Matrix Chain Multiplication
+- Matrix 
 =========================
 - All folders include a pdf that have a pseudocode and zip file to make download easier.  
